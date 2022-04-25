@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(237, 210, 240);
+    color:rgb(183, 0, 255);
+    font-family: arial;
+} 
+
+img{
+    width:500px;
+    height: 500px;
+    border: 1px solid rgb(0, 0, 0);
+}
